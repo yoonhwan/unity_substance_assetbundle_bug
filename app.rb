@@ -3,6 +3,7 @@ require 'haml'
 
 configure do
   mime_type :unity3d, 'application/vnd.unity'
+  mime_type :assetbundle, 'application/vnd.unity'
 end
 
 get '/' do
