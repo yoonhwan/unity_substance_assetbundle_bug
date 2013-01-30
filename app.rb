@@ -1,6 +1,10 @@
 require 'sinatra'
 require 'haml'
 
+configure do
+  mime_type :unity3d, 'application/vnd.unity'
+end
+
 get '/' do
   haml :index
 end
