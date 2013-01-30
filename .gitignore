@@ -1,0 +1,16 @@
+Temp
+'Temp
+Library
+.DS_Store
+.output
+*.pidb
+*.userprefs
+*.pyc
+*.csproj
+*.sln
+*.unityproj
+test-results
+Assets/Shed/GUI/FastGUIOutput.txt
+Assets/Shed/GUI/FastGUIOutput.txt.meta
+FastGUICreatePrefabs.sh.command
+FastGUICreatePrefabs.sh.command.meta
